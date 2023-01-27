@@ -1,1 +1,1 @@
-# MY_SQL_PRACTICE
+# github_practice
